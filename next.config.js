@@ -1,10 +1,12 @@
 const path = require('path')
- 
+
 module.exports = {
+  output: 'export',  // This tells Next.js to export a static site
   sassOptions: {
     includePaths: [path.join(__dirname, 'styles')],
   },
   images: {
+    unoptimized: true,  // Required for static export
     remotePatterns: [
       {
         protocol: 'https',

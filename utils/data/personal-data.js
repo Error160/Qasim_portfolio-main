@@ -8,10 +8,10 @@ export const personalData = {
   address: 'Iraq, Baghdad',
   github: 'https://github.com/Error160',
   facebook: 'https://www.facebook.com/share/1EjyXEXZpD/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
+  linkedIn: 'https://www.linkedin.com/in/qasim-abbas-598494252/',
   instagram: 'https://www.instagram.com/qasim_error404?igsh=dnpob3FianZoc24y&utm_source=qr',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  // stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
+  // leetcode: "https://leetcode.com/said3812/",
+  devUsername: "QasimError",
+  resume: "https://drive.google.com/file/d/1vq2rgMB6lr50hvNpJVj_gXLG08e4s--k/view?usp=drive_link"
 }
